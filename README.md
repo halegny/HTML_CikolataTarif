@@ -1,6 +1,6 @@
 # HTML_CikolataTarif
 # KodluyoruzKodluyoruz HTML Bölüm Sonu Çalışması 3
-## Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-end eğitiminin HTML kısmında oluşturduğum 2. bölüm sonu ödevi. İçerisinde bir adet README dosyası ve bir adet index.html barındırıyor. 
+## Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-end eğitiminin HTML kısmında oluşturduğum 3. bölüm sonu ödevi. İçerisinde bir adet README dosyası ve bir adet index.html barındırıyor. 
 ## bu repoda çikolatalı küp tarifi verilmiştir. 
 
 
